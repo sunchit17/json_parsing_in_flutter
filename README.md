@@ -1,6 +1,6 @@
 # json_parsing
 
-A new Flutter project.
+Flutter Project to demonstrate API Calling and JSON Parsing for a fake JSON data generation API.
 
 ## Getting Started
 

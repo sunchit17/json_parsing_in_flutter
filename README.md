@@ -1,6 +1,7 @@
 # json_parsing
 
-Flutter Project to demonstrate API Calling and JSON Parsing for a fake JSON data generation API.
+Flutter Project to demonstrate API Calling and JSON Parsing from a fake JSON data generation API.
+'http://www.json-generator.com/api/json/get/cfwZmvEBbC?indent=2'
 
 ## Getting Started
 
